@@ -2,4 +2,4 @@
 
 This is the 1200 energy traces collected when the standard AES-128 encryption device is encrypted.
 
-这是标准AES-128加密设备加密时所采集的1200条能量迹.由于文件上传大小限制,仅上传第一字节通过S盒时所采集的能量迹
+这是标准AES-128加密设备加密时所采集的1200条能量迹.文件名称是128比特明文--128比特密文
